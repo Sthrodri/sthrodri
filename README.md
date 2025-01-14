@@ -4,6 +4,7 @@
 
 ## 📚 Projetos da 42.zip
  Aqui estão alguns dos projetos que fazem parte da minha formação:
+ 
 ![LIBFT](badges/libfte.png)
 ![GNL](badges/get_next_linee.png)
 ![SO_LONG](badges/so_longe.png)
