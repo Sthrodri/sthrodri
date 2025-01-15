@@ -1,5 +1,10 @@
 # <p style="color:red;">Opa, Tudo bom? Espero que sim</p> 😁
 
+# <p style="color:#3498db;">Opa, Tudo bom? Espero que sim</p> 😁
+
+### <p style="color:green;">Meu nome é Sthefany, mas pode me chamar de Sthe. Atualmente</p>
+
+
 ### Meu nome é Sthefany, mas pode me chamar de Sthe. Atualmente sou cadete da 42 School (SP), onde faço parte do programa de formação 42.zip.
 
 [![sthrodri's 42 stats](https://badge.mediaplus.ma/landscapes/sthrodri?1337Badge=off&UM6P=off)](https://github.com/sthrodri)
