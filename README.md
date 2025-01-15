@@ -12,9 +12,9 @@
  Aqui estão alguns dos projetos que fazem parte da minha formação:
  
 [![LIBFT](badges/libfte.png)](https://github.com/Sthrodri/42_school/tree/main/Libft)
-![GNL](badges/get_next_linee.png)
+[![GNL](badges/get_next_linee.png)](https://github.com/Sthrodri/42_school/tree/main/Get_next_line)
 [![SO_LONG](badges/so_longe.png)](https://github.com/Sthrodri/42_school/tree/main/So_long)
-![PIPEX](badges/pipexe.png)
+[![PIPEX](badges/pipexe.png)](https://github.com/Sthrodri/42_school/tree/main/Pipex)
 ![MINISHELL](badges/minishelle.png)
 ![MOBILE](badges/mobilee.png)
 
