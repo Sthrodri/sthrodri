@@ -1,4 +1,4 @@
-# <p style="color🪮;">Opa, Tudo bom? Espero que sim</p> 😁
+# <p style="red;">Opa, Tudo bom? Espero que sim</p> 😁
 
 ### Meu nome é Sthefany, mas pode me chamar de Sthe. Atualmente sou cadete da 42 School (SP), onde faço parte do programa de formação 42.zip.
 
