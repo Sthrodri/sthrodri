@@ -3,10 +3,7 @@
 ### Meu nome é Sthefany, mas pode me chamar de Sthe. Atualmente sou cadete da 42 School (SP), onde faço parte do programa de formação 42.zip.
 
  <img src="https://github-readme-stats.vercel.app/api?username=sthrodri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandoruanb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-
-![My stats](https://github-readme-stats.vercel.app/api?username=sthrodri&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sthrodri&layout=compact&theme=merko)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sthrodri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 ## 📚 Projetos da 42.zip
  Aqui estão alguns dos projetos que fazem parte da minha formação:
