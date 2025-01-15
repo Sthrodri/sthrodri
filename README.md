@@ -11,7 +11,7 @@
 ## 📚 Projetos da 42.zip
  Aqui estão alguns dos projetos que fazem parte da minha formação:
  
-![LIBFT](badges/libfte.png)](https://github.com/Sthrodri/42_school/tree/main/Libft)
+[![LIBFT](badges/libfte.png)](https://github.com/Sthrodri/42_school/tree/main/Libft)
 ![GNL](badges/get_next_linee.png)
 [![SO_LONG](badges/so_longe.png)](https://github.com/Sthrodri/42_school/tree/main/So_long)
 ![PIPEX](badges/pipexe.png)
