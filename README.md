@@ -2,6 +2,12 @@
 
 ### Meu nome é Sthefany, mas pode me chamar de Sthe. Atualmente sou cadete da 42 School (SP), onde faço parte do programa de formação 42.zip.
 
+
+
+
+
+
+
 ## 📚 Projetos da 42.zip
  Aqui estão alguns dos projetos que fazem parte da minha formação:
  
