@@ -13,7 +13,7 @@
  
 ![LIBFT](badges/libfte.png)
 ![GNL](badges/get_next_linee.png)
-![SO_LONG](badges/so_longe.png)](https://github.com/Sthrodri/42_school/tree/main/So_long)
+![SO_LONG](badges/so_longe.png)(https://github.com/Sthrodri/42_school/tree/main/So_long)
 ![PIPEX](badges/pipexe.png)
 ![MINISHELL](badges/minishelle.png)
 ![MOBILE](badges/mobilee.png)
