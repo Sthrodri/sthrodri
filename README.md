@@ -17,7 +17,7 @@
 ![MINISHELL](badges/minishelle.png)
 ![MOBILE](badges/mobilee.png)
 
-##🌐 Conecte-se comigo:
+## 🌐 Conecte-se comigo:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sthefany-rodrigues-silva-11464129a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sthefanysilvaakn@gmail.com)
