@@ -2,6 +2,8 @@
 
 ### Meu nome é Sthefany, mas pode me chamar de Sthe. Atualmente sou cadete da 42 School (SP), onde faço parte do programa de formação 42.zip.
 
+[![sthrodri's 42 stats](https://badge.mediaplus.ma/colorfulwaves/sthrodri?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
 
 
 
