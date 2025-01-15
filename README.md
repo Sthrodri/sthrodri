@@ -4,6 +4,9 @@
 
 [![sthrodri's 42 stats](https://badge.mediaplus.ma/landscapes/sthrodri?1337Badge=off&UM6P=off)](https://github.com/sthrodri)
 
+![My stats](https://github-readme-stats.vercel.app/api?username=sthrodri&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sthrodri&layout=compact&theme=merko)
+
 ## 📚 Projetos da 42.zip
  Aqui estão alguns dos projetos que fazem parte da minha formação:
  
