@@ -4,12 +4,6 @@
 
 [![sthrodri's 42 stats](https://badge.mediaplus.ma/landscapes/sthrodri?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-
-
-
-
-
-
 ## 📚 Projetos da 42.zip
  Aqui estão alguns dos projetos que fazem parte da minha formação:
  
