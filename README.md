@@ -1,6 +1,6 @@
 # <p style="color:red;">Opa, Tudo bom? Espero que sim</p> 😁
 
-### Meu nome é Sthefany, mas pode me chamar de Sthe. Atualmente sou faço parte do co.lab por meio de uma parceria da Natura e a 42 school. Fiz parte do programa de formação 42.zip.
+### Meu nome é Sthefany, mas pode me chamar de Sthe. Atualmente faço parte do co.lab por meio de uma parceria da Natura e a 42 school. Fiz parte do programa de formação 42.zip.
 
 [![sthrodri's 42 stats](https://badge.mediaplus.ma/starryblue/sthrodri?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
