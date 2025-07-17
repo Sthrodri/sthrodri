@@ -1,6 +1,8 @@
 # <p style="color:red;">Opa, Tudo bom? Espero que sim</p> 😁
 
-### Meu nome é Sthefany, mas pode me chamar de Sthe. Atualmente faço parte do co.lab por meio de uma parceria da Natura e a 42 school. Quero destacar que fiz parte da formação 42.zip na 42 sp.
+### Meu nome é Sthefany, mas pode me chamar de Sthe. Atualmente faço parte do co.lab por meio de uma parceria da Natura e a 42 school. 
+
+Quero destacar que fiz parte da formação 42.zip na 42 sp.
 
 [![sthrodri's 42 stats](https://badge.mediaplus.ma/starryblue/sthrodri?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
@@ -8,7 +10,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sthrodri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 ## 📚 Projetos da 42.zip
- Aqui estão alguns dos projetos que fazem parte da minha formação:
+ Aqui estão alguns dos projetos que fizeram parte da minha formação:
  
 [![LIBFT](badges/libfte.png)](https://github.com/Sthrodri/42_school/tree/main/Libft)
 [![GNL](badges/get_next_linee.png)](https://github.com/Sthrodri/42_school/tree/main/Get_next_line)
