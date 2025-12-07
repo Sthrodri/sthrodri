@@ -21,10 +21,11 @@ Quero destacar que fiz parte da formação 42.zip na 42 sp.
 
 ## 🌐 Conecte-se comigo:
 
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sthefany-silva-11464129a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/sthefany-silva-11464129a?trk=profile-badge">Sthefany S.</a></div>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
               
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sthefanysilvaakn@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1068325583764865055)
+
 
 
 
