@@ -16,7 +16,6 @@ Quero destacar que fiz parte da formação 42.zip na 42 sp.
 [![GNL](badges/get_next_linee.png)](https://github.com/Sthrodri/42_school/tree/main/Get_next_line)
 [![SO_LONG](badges/so_longe.png)](https://github.com/Sthrodri/42_school/tree/main/So_long)
 [![PIPEX](badges/pipexe.png)](https://github.com/Sthrodri/42_school/tree/main/Pipex)
-```![MINISHELL](badges/minishelle.png)```
 [![MOBILE](badges/mobilee.png)](https://github.com/Sthrodri/mobile02)
 
 ## 🌐 Conecte-se comigo:
@@ -24,6 +23,7 @@ Quero destacar que fiz parte da formação 42.zip na 42 sp.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/sthefany-silva-11464129a?trk=profile-badge)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sthefanysilvaakn@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1068325583764865055)
+
 
 
 
