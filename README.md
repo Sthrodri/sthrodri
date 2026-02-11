@@ -1,6 +1,13 @@
-# <p style="color:red;">Opa, Tudo bom? Espero que sim</p> 😁
+### Olá! Sou Sthefany Silva 👋
 
-### Meu nome é Sthefany, mas pode me chamar de Sthe. Atualmente faço parte do 42co.lab por meio de uma parceria da Natura e a 42 school. 
+**Software Developer | 42 São Paulo Student**
+
+Focada em **Engenharia de Software** e **Cloud Computing**. Minha base é fundamentada em C e Unix (através da metodologia ativa da 42 São Paulo), com transição atual para ecossistema Java e AWS.
+
+- 💼 **Experiência:** Atuei no **Natura 42co.lab**, desenvolvendo soluções de automação e otimização de processos.
+- ⚙️ **Stack Principal:** C, Shell, Git, Docker, Python.
+- 🌱 **Estudando:** Java, Spring, AWS, Clean Architecture.
+
 
 Quero destacar que fiz parte da formação 42.zip na 42 sp.
 
@@ -23,6 +30,7 @@ Quero destacar que fiz parte da formação 42.zip na 42 sp.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/sthefany-silva-11464129a?trk=profile-badge)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sthefanysilvaakn@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1068325583764865055)
+
 
 
 
