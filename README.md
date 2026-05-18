@@ -8,7 +8,7 @@ Sou estudante de Sistemas de Informação na Estácio. Minha trajetória é foca
 
 - 💼 **Experiência:** Atuei no **Natura 42co.lab**, desenvolvendo soluções de automação e otimização de processos.
 - ⚙️ **Stack Principal:** C, Shell, Git, Docker, Python.
-- 🌱 **Estudando:** Java, Spring, AWS, Clean Architecture.
+- 🌱 **Estudando:** Java, Spring, AWS, Javascript, Node.js. N8N, Clean Architecture.
 
 
 Quero destacar que fiz parte da formação 42.zip na 42 sp.
