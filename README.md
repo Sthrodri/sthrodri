@@ -24,11 +24,10 @@ Quero destacar que fiz parte da formação 42.zip na 42 sp.
 [![PIPEX](badges/pipexe.png)](https://github.com/Sthrodri/Pipex)
 [![MOBILE](badges/mobilee.png)](https://github.com/Sthrodri/mobile02)
 
-## Projetos Backend:
+## 🛠️ Projetos Backend
 
-[Api de desaparecidos com Node.js](https://github.com/sthrodri/api-registro-desaparecidos)
-<br>
-[Api Saas financeira integrando IA](https://github.com/sthrodri/Fintech-AI-Insights)
+* 🌊 **[api-registro-desaparecidos](https://github.com/sthrodri/api-registro-desaparecidos)** — API de registro e busca de pessoas desaparecidas desenvolvida com Node.js.
+* 💰 **[Fintech-AI-Insights](https://github.com/sthrodri/Fintech-AI-Insights)** — API SaaS financeira com integração de Inteligência Artificial.
 
 ## 🌐 Conecte-se comigo:
 
