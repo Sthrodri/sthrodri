@@ -2,9 +2,9 @@
 
 ---
 
-**Software Developer | 42 São Paulo Student**
+**Apaixonada por tecnologia e pessoas.**
 
-Focada em **Engenharia de Software** e **Cloud Computing**. Minha base é fundamentada em C e Unix (através da metodologia ativa da 42 São Paulo), com transição atual para ecossistema Java e AWS.
+Sou estudante de Sistemas de Informação na Estácio. Minha trajetória é focada em **Engenharia de Software** e **Cloud Computing**. Minha base é fundamentada em C e Unix (através da metodologia ativa da 42 São Paulo), com transição atual para ecossistema Java e AWS.
 
 - 💼 **Experiência:** Atuei no **Natura 42co.lab**, desenvolvendo soluções de automação e otimização de processos.
 - ⚙️ **Stack Principal:** C, Shell, Git, Docker, Python.
@@ -23,6 +23,12 @@ Quero destacar que fiz parte da formação 42.zip na 42 sp.
 [![SO_LONG](badges/so_longe.png)](https://github.com/Sthrodri/So_long)
 [![PIPEX](badges/pipexe.png)](https://github.com/Sthrodri/Pipex)
 [![MOBILE](badges/mobilee.png)](https://github.com/Sthrodri/mobile02)
+
+## Projetos Backend:
+
+[Api de desaparecidos com Node.js](https://github.com/sthrodri/api-registro-desaparecidos)
+<br>
+[Api Saas financeira integrando IA](https://github.com/sthrodri/Fintech-AI-Insights)
 
 ## 🌐 Conecte-se comigo:
 
